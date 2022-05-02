@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ###  Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whp98&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whp98&count_private=true&show_icons=true&theme=onedark&exclude_repo=whp98.github.io&exclude_repo=whp98.github.io&exclude_repo=blog_vuepress)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programing Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical&hide=html)
