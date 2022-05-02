@@ -16,22 +16,11 @@ Here are some ideas to get you started:
 -->
 ###  wechat channel
 
-![](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3557942556&token=1046020622&style=1&pixsize=224&lang=zh_CN)
+![Qrcode](https://user-images.githubusercontent.com/32877126/166197333-7e19bb83-9d60-4bee-a899-fa72b1daedeb.jpg)
 
 ###  Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whp98&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-###  Open Projects
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=logback&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=sso-merryyou&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=blockchain-java&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=springboot2.0-oauth2&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=security-oauth2&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=whp98&repo=jpa-example&theme=radical)
-
 
 ### Programing Languages
 
