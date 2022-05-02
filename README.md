@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Programing Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical&exclude_repo=whp98.github.io,blog_vuepress)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical&exclude_repo=whp98.github.io%2Cblog_vuepress&hide=html)
