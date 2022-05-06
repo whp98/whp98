@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Programing Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical&exclude_repo=whp98.github.io%2Cblog_vuepress&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&theme=radical&exclude_repo=whp98.github.io%2Cblog_vuepress&hide=html&layout=compact&count_private=true)
 ###  Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whp98&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whp98&count_private=true&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ###  wechat channel
 ![Qrcode](https://user-images.githubusercontent.com/32877126/166197333-7e19bb83-9d60-4bee-a899-fa72b1daedeb.jpg)
