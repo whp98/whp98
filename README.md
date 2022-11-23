@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ###  wechat channel
 ![Qrcode](https://github.com/whp98/whp98.github.io/blob/main/docs/public/weixinqr.png)
+
+### my blog
+
+[技术凡人blog.jsfr.work](https://blog.jsfr.work)
