@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ###  wechat channel
-![Qrcode](https://user-images.githubusercontent.com/32877126/166197333-7e19bb83-9d60-4bee-a899-fa72b1daedeb.jpg)
+![Qrcode](https://github.com/whp98/whp98.github.io/blob/main/docs/public/weixinqr.png)
