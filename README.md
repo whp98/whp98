@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  wechat channel
+###  Wechat channel
 ![Qrcode](https://github.com/whp98/whp98.github.io/blob/main/docs/public/weixinqr.jpg)
 
-### my blog
+### My blog
 
 [技术凡人blog.jsfr.work](https://blog.jsfr.work)
 
-### code info
+### Code info
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=whp98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="whp98's github stats" />
 
