@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 ### my blog
 
 [技术凡人blog.jsfr.work](https://blog.jsfr.work)
+
+### code info
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whp98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="whp98's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&layout=compact&theme=buefy&hide_border=true&langs_count=100" />
