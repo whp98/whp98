@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-###  Wechat channel
-![Qrcode](https://github.com/whp98/whp98.github.io/blob/main/docs/public/weixinqr.jpg)
-
 ### My blog
 
 [技术凡人blog.jsfr.work](https://blog.jsfr.work)
