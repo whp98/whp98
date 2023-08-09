@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### Code info
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=whp98&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&hide_border=true" alt="whp98's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whp98&show_icons=true&include_all_commits=false&theme=dark#gh-dark-mode-only&hide_border=true" alt="whp98's github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whp98&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true&langs_count=100" />
